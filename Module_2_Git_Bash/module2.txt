@@ -1,0 +1,8 @@
+1. What is git and how is it different from git hub?
+    Git is version control system used to manage changes to code while git is used to host those git repositories 
+2. Why use the terminal? 
+    Programmers use the terminal ebcause they want to talk directly to the computer. It is also faster than using a gui and has more functionality 
+3. 3 benefits of version control
+    a. Easily fix errors
+    b. work with other developer easily 
+    c. avoid potential errors 
