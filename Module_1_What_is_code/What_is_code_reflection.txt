@@ -1,0 +1,32 @@
+What is a computer doing when you type a letter on the keyboard? 
+    The computer is waiting for a signal from the keyboard. Onces you press the keyboard, the computer gets a signal.
+    It then interprets that signal as a letter and puts it on the screen. 
+How do Computers use input and output to create experiences? 
+    A computer is just a machine that follows instructions and can make calculations. 
+    The only way a computer is going to know if you want something is if you give it input. The only waay a computer is going to 
+    give you an answer is though some kind of output. String enough of these inputs and outputs and you have an experience. 
+Explain why software products are infintely reproducible nothings?
+    This phrase comes from the idea that software is seen as product that one has to pay for, that it cost
+    something to distribute software to multiple users. In reality, the cost of copying software and giving
+    it to someone else is essentially free and thus software products are infintely reproducible.
+Explain how code becomes software
+    Code becomes software when it is interpreted by the computer to do something useful. 
+    Once you can use code to accomplish a task it becomes software
+Explain Algorithms in your own words. 
+    Algorithms are like recipes. They are just a fancy way of saying a series of steps followed to accomplish a specific task.
+Explain the DRY principle
+    Dont repeat yourself
+    To keep code from being verbose you follow this principle. You want to repeat yourself as little as possible.
+    You can do this by using functions and classes to group code.
+Explain what object oriented programming is 
+    Object oriented programming is a way of coding. Basically you think of items in memory as representing 
+    real world objects with their own properties and and ways of doing things. This is a great to program
+    because it is easier for us to problem-solve this way since humans naturally think this way.
+What is a framework? 
+    Frameworks are used to build certain types of software faster. They provide tools and methods for that task. What to build a web application? Use a web framework because this way you don't have to write all the code from scratch. 
+What is debugging?
+    Debugging is going back through the code and/or testing code to find bugs/ errors that dont allow the code to run correctly.
+Why do you want to learn to code?
+    I want to learn to code because coding is the future and I want to build it. 
+    Some skills are becoming obsolete but coding is not one of them. In other words, i want to secure my financial stability. 
+
