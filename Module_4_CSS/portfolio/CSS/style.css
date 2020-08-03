@@ -1,0 +1,11 @@
+:root {
+  --first-color: #dbe4e8;
+  --second-color: #f5f5f5;
+  --third-color: #990099;
+  --fourth-color: black;
+  --font: "Recursive";
+  --shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+body {
+  background-color: white;
+}
