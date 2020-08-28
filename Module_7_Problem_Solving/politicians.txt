@@ -1,0 +1,42 @@
+DESCRIPTION
+    A website or application where politcians can be held accountable for the things they say they are going to do 
+    and a place supports can talk to politians and tell them the things they want in legislation  
+PROBLEM: 
+    When political candiadates say one thing in their campaign but legislate another 
+    it's hard to talk to legislators 
+    News regrading certain politicians is scattered 
+EXISTING ALTERNATIVES
+    Reddit
+    Twitter
+    Every news source  
+KEY METRICS 
+    How many pople are signing up
+    How many politians are using the application
+    How much are our engagement tools being used like the like button
+    How many peoplare commenting 
+UNIQUE VALUE PROPOSITION 
+    politians can be held accountable for what they say 
+    public record of what politians have promised and what citizens want 
+        and whether or not politians have fulfilled thos promises
+HIGH LEVEL CONCEPT 
+    If Reddit and Twitter had a baby but only for politians and the people that support them and/or don't support them
+UNFAIR ADVANTAGE 
+    All the news, posts, comments, will be on this site. (Everything is in one place)
+CHANNELS 
+    Advertising
+    Downloadable app 
+    Website 
+CUSTOMER SEGMENTS
+    politicians 
+    governments 
+    people looking to make change in the government 
+EARLY ADOPTERS 
+    people looking to make change in the governm~ent 
+COST STRUCTURE 
+    Servers cost money
+    Software developers cost money
+    Experts in the political landscape cost money
+REVENUE STREAMS 
+    sponsors
+    Ads 
+    subscription 
